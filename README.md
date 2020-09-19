@@ -1,4 +1,4 @@
-# mushroom-online-server
+# mi-course-server
 Express + Mysql 搭建的蘑菇在线服务端
 
 ### 简介
@@ -27,7 +27,7 @@ Express + Mysql 搭建的蘑菇在线服务端
 # 执行 mushroom_online.sql 文件
 
 # 克隆项目源代码 
-git clone https://github.com/fanfanSky/mushroom-online-server.git
+git clone https://github.com/fanfanSky/MI-COURSE-SERVER.git
 	
 # 切换到根目录，安装依赖包
 npm i
